@@ -44,26 +44,4 @@
         <current.version>20180813</current.version>
     </properties>
 
-    <scm>
-        <connection>scm:git:git@github.com:iarellano/JSON-java-parent.git</connection>
-        <developerConnection>scm:git:git@github.com:iarellano/JSON-java-parent.git</developerConnection>
-        <url>https://github.com/iarellano/JSON-java-parent</url>
-        <tag>HEAD</tag>
-    </scm>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-deploy-plugin</artifactId>
-                <executions>
-                    <execution>
-                        <id>default-deploy</id>
-                        <phase>none</phase>
-                    </execution>
-                </executions>
-            </plugin>
-        </plugins>
-    </build>
-
 </project>
