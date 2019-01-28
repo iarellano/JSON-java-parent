@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = git@github.com:iarellano/JSON-Java-unit-test.git
+[submodule "core"]
+	path = core
+	url = git@github.com:iarellano/JSON-java-core.git
