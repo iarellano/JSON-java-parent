@@ -44,6 +44,13 @@
         <current.version>20180813</current.version>
     </properties>
 
+    <scm>
+        <connection>scm:git:git@github.com:iarellano/JSON-java-parent.git</connection>
+        <developerConnection>scm:git:git@github.com:iarellano/JSON-java-parent.git</developerConnection>
+        <url>https://github.com/iarellano/JSON-java-parent</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
